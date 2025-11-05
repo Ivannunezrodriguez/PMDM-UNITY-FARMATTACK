@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "AE3.sln"
+    "dotnet.defaultSolution": "PMDM-UNITY-FARMATTACK.sln"
 }
